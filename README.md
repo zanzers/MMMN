@@ -1,4 +1,4 @@
-# MMMN: Unified Framework for Tampered and AI-Generated Image Detection
+# An  Approach to Fake Media Detection: Integrating Deepfake Analysis, Image Forensics, and Contextual Verification
 
 This project is a thesis-based initiative to develop a **unified framework** combining:
 - Image Forensics
