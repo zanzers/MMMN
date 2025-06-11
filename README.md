@@ -1,4 +1,4 @@
-# An  Approach to Fake Media Detection: Integrating Deepfake Analysis, Image Forensics, and Contextual Verification
+# An  Approach to Fake Media Detection: Integrating Deepfake Analysis, Image Forensics, and Frequency Domain Analysis
 
 This project is a thesis-based initiative to develop a **unified framework** combining:
 - Image Forensics
