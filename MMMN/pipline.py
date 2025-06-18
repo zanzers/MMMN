@@ -1,5 +1,0 @@
-
-
-
-class DetectionPipeline:
-    pass
